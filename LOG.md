@@ -1,24 +1,30 @@
-#Today Work Activity
+Day 1 
 
-#Machine Setup
+1. Installed Node.js and Git.
+2. Created a GitHub account and repository.
+3. Created a JavaScript foundation project in VS Code.
+4. Learned `npm init` and created `package.json`.
+5. Installed TSX and created `tsconfig.json` with strict mode.
+6. Created `index.ts` and ran it using `npx tsx index.ts`.
+7. Learned Git commands: `git init`, `git add .`, and `git commit`.
+8. Connected the project with GitHub and pushed the code.
+9. Faced PowerShell and typing errors, identified and fixed them using CMD and AI assistance.
 
-Node.js install kiya
-VS Code pehle install tha, Git install kiya
-GitHub account banaya — MunazamHussain
-js-foundation folder banaya, VS Code mein khola
-npm init chalaya → package.json bani
-npm install tsx → node_modules, package-lock.json, aur package.json mein dependencies
-tsconfig.json khud likhi, "strict": true ke sath
-index.ts banayi, console.log se apna naam print kiya — npx tsx index.ts se chalaya
-git init, .gitignore (node_modules), git add ., git commit
-GitHub par reprositry file banayi aur push kiya
+Day 2 
 
-#Error 
-terminal ma powershell kam nhi kar rha tha phir cmd ko comand di
-phir nmp init ma likhna ki mistake ki
+What variables with example  and their types.
+Difference between let and const .
+Practiced 5  coding problems.
+Faced difficulty in Problem 2 and 4 but understood them with examples.
+Added my problem files to GitHub using git commands git add git commit -m "setup complete".
 
-#identify error 
-phla khud error dekha ju smj nhi aye wo phie AI sa poucha 
 
-#Still don't understand?"
-abhi tak tu sub kuch smj a gyi hngit add .
+Day 3 
+
+1. Learned data types: String, Number, Boolean, Undefined, and Null.
+2. Practiced separate problems for String, Number, and Boolean.
+3. Created a Bus Details program using different data types.
+4. Learned the `typeof` operator and its purpose.
+5. Created a Student Record program using different data types.
+6. Learned Template Literals, backticks (`` ` ``) and `${}`.
+7. Practiced displaying student records in a single line using Template Literals.
