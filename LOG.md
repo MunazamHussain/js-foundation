@@ -28,3 +28,15 @@ Day 3
 5. Created a Student Record program using different data types.
 6. Learned Template Literals, backticks (`` ` ``) and `${}`.
 7. Practiced displaying student records in a single line using Template Literals.
+
+
+Day 4 
+
+
+Learned JavaScript Operators and their types:
+Arithmetic Operators
+Assignment Operators
+Comparison Operators
+Logical Operators
+Solved related operator practice problems.
+Learned and practiced `Math.floor()` method.
