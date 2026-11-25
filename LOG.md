@@ -32,7 +32,6 @@ Day 3
 
 Day 4 
 
-
 Learned JavaScript Operators and their types:
 Arithmetic Operators
 Assignment Operators
@@ -40,3 +39,12 @@ Comparison Operators
 Logical Operators
 Solved related operator practice problems.
 Learned and practiced `Math.floor()` method.
+
+Day 5
+Topic: JavaScript If / Else Statements
+
+Learned how to use `if` and `else` statements.
+Understood how conditions work using `true` and `false`.
+Learned the difference between `=` and `===`.
+Practiced using `if / else` with different examples.
+Created programs for number checking, age checking, temperature, water tank, larger number, and positive/negative numbers.
