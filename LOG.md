@@ -48,3 +48,13 @@ Understood how conditions work using `true` and `false`.
 Learned the difference between `=` and `===`.
 Practiced using `if / else` with different examples.
 Created programs for number checking, age checking, temperature, water tank, larger number, and positive/negative numbers.
+
+day 6
+
+Topic: Truthy and Falsy Values in JavaScript
+
+- Learned about Truthy and Falsy values in JavaScript.
+- Understood how `if` checks different values automatically as `true` or `false`.
+- Learned that JavaScript accepts any value in an `if` condition.
+- Learned the six Falsy values: `false`, `0`, `""`, `null`, `undefined`, and `NaN`.
+- Practiced using Truthy and Falsy values in `if/else` conditions.
